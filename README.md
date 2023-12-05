@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">LYZ ChatGPT</h1>
 
-实现：注册/登录、用户授权、支付管理、卡密管理、KEY管理分发、角色扮演、注册赠送额度、邀请拉新奖励等功能，支持商业运营<br/>
-支持3.5、4.0、dall-e-3绘画<br/>
+实现：注册/登录、用户授权、支付管理、卡密管理、KEY管理分发、角色扮演、注册赠送额度、邀请拉新奖励等功能，支持商业运营。<br/>
+支持GPT3.5全模型、GPT4.0全模型、dall-e-3绘画模型<br/>
 [前往体验](https://ai.lyzplus.cn/) <br/>
 
 [资源官网](https://www.lyzplus.cn/) 
