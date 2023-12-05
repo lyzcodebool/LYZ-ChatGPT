@@ -12,5 +12,7 @@
 <img width="1724" alt="image" src="https://github.com/lyzcodebool/LYZ-ChatGPT/assets/28481065/b3e3499a-7fcd-4b6a-9fbd-674e53e127f4">
 <img width="1722" alt="image" src="https://github.com/lyzcodebool/LYZ-ChatGPT/assets/28481065/9378012e-e60d-4774-afc5-df9f1a63e42b">
 <img width="1720" alt="image" src="https://github.com/lyzcodebool/LYZ-ChatGPT/assets/28481065/0d8bb615-d589-4eef-a850-1b1b273f0c90">
+<img width="1712" alt="image" src="https://github.com/lyzcodebool/LYZ-ChatGPT/assets/28481065/33497783-196b-45ce-b336-f658184eb6c6">
+<img width="1718" alt="image" src="https://github.com/lyzcodebool/LYZ-ChatGPT/assets/28481065/345f899f-26c4-47bc-b734-f341763271c7">
 
 
